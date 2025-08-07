@@ -87,6 +87,3 @@ Let’s turn moments into habits. Let the data guide the design.
 
 ---
 
-**Chastity Nix**  
-Product Analyst · Data Storyteller · Puzzle Fan  
-📧 nix.ch003@gmail.com
